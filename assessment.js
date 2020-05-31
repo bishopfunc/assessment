@@ -50,8 +50,8 @@ assessmentButton.onclick = () => {
 };
 
 const answers = [
-  '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
   '{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
+  '{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
   '{userName}のいいところは声です。{userName}の特徴的な声はみなを惹きつけ、心に残ります。',
   '{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
   '{userName}のいいところは知識です。博識な{userName}を多くの人が頼りにしています。',
